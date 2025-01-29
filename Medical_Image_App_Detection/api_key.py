@@ -1,1 +1,1 @@
-api_key="AIzaSyDMMKQ19rolLrFZV3ifWtWPUGZpW372RiM"
+api_key="Your API Key from gemini pro api"
